@@ -1,0 +1,18 @@
+{
+  "name": "chatServerApp",
+  "version": "0.0.1",
+  "description": "server side for chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "test.sh"
+  },
+  "author": "Thurston Sandberg",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.9.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
